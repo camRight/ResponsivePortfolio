@@ -15,8 +15,7 @@ then used `@media only screen and (min-width: 767px) {}` to design from small to
 
 File is a whopping 5.95 MB. Compress/reduce file-size for small screens. Since this is an 
 exercise in practice I felt like populating the files with a background image was enough. One can 
-manipulate the photo in a digital darkroom (photoshop,gimp, etc) and create another 
-asset image for small screens.
+manipulate the photo in a digital darkroom (photoshop, gimp, etc) and create another asset image for small screens.
 
 [ ] https://getbootstrap.com/docs/4.0/components/card/ Cards
 
