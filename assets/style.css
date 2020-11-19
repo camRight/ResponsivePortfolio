@@ -2,8 +2,23 @@
     background: #E4E4E4
 } */
 
+
 body {
-    background-image: url("./images/pastelSunset.jpg");
+    background-attachment: fixed;
+    background-image: url("./images/bluePink.jpg");
+    background-position: center center;
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: 100% 100%;
+    background-color: #E4E4E4;
+    /* position: relative; */
+}
+
+@media only screen and (max-width: 767px) {
+    body {
+    background-image: url("./images/bluePink.jpg");
+    background-size: cover;
+    object-fit: cover 100%;
+    position: relative;
+    
+    }
 }
