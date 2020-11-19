@@ -3,9 +3,7 @@
 ##### This project seeks to explore mobile responsive websites in order to demonstrate proficiency in meeting the user's needs.
 
 **Responsive Portfolio** as a project came from the perspective of accessibility. The majority of global
-website traffic is from mobile users. India is a prime example of a mobile-first or mobile-only
-online population. Designing a website with mobile-users in mind allows the company or development
-team to access a greater userbase and market.
+website traffic is from mobile users. The majority of emerging markets solely consist of mobile-first or mobile-only online populations. Designing a website with mobile-users in mind allows the company or development team to access a greater userbase and market.
 
 
 
