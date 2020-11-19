@@ -13,7 +13,7 @@ team to access a greater userbase and market.
 ## Media Query
 
 If I had started this project over I would have designed this project from small mobiles 
-then used `@media only screen and (max-width: 767px) {}` to design from small to large.
+then used `@media only screen and (min-width: 767px) {}` to design from small to large.
 
 File is a whopping 5.95 MB. Compress/reduce file-size for small screens. Since this is an 
 exercise in practice I felt like populating the files with a background image was enough. One can 
