@@ -1,0 +1,9 @@
+/* * {
+    background: #E4E4E4
+} */
+
+body {
+    background-image: url("./images/pastelSunset.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
