@@ -4,21 +4,21 @@
 
 
 body {
+    /* background large */
     background-attachment: fixed;
     background-image: url("./images/bluePink.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-color: #E4E4E4;
-    /* position: relative; */
 }
 
+/* screen media large to small */
 @media only screen and (max-width: 767px) {
     body {
     background-image: url("./images/bluePink.jpg");
     background-size: cover;
     object-fit: cover 100%;
     position: relative;
-    
     }
 }
