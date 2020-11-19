@@ -17,3 +17,7 @@ File is a whopping 5.95 MB. Compress/reduce file-size for small screens. Since t
 exercise in practice I felt like populating the files with a background image was enough. One can 
 manipulate the photo in a digital darkroom (photoshop,gimp, etc) and create another 
 asset image for small screens.
+
+[] https://getbootstrap.com/docs/4.0/components/card/ Cards
+[] https://getbootstrap.com/docs/4.0/layout/overview/ Containers
+[x] Navbar
