@@ -18,6 +18,8 @@ exercise in practice I felt like populating the files with a background image wa
 manipulate the photo in a digital darkroom (photoshop,gimp, etc) and create another 
 asset image for small screens.
 
-[] https://getbootstrap.com/docs/4.0/components/card/ Cards
-[] https://getbootstrap.com/docs/4.0/layout/overview/ Containers
+[ ] https://getbootstrap.com/docs/4.0/components/card/ Cards
+
+[ ] https://getbootstrap.com/docs/4.0/layout/overview/ Containers
+
 [x] Navbar
