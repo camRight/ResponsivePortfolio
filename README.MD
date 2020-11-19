@@ -19,7 +19,12 @@ manipulate the photo in a digital darkroom (photoshop,gimp, etc) and create anot
 asset image for small screens.
 
 [ ] https://getbootstrap.com/docs/4.0/components/card/ Cards
+<<<<<<< HEAD
 
 [ ] https://getbootstrap.com/docs/4.0/layout/overview/ Containers
 
 [x] Navbar
+=======
+[ ] https://getbootstrap.com/docs/4.0/layout/overview/ Containers
+[x] Navbar
+>>>>>>> 2f9ccd259c53616457d80619a915cd9657736002
