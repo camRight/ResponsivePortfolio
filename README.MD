@@ -1,11 +1,13 @@
 # Responsive Bootstrap Portfolio
 
-The idea for this project came from the perspective of accessability. The majority of global
+##### This project seeks to explore mobile responsive websites in order to demonstrate proficiency in meeting the user's needs.
+
+**Responsive Portfolio** as a project came from the perspective of accessability. The majority of global
 website traffic is from mobile users. India is a prime example of a mobile-first or mobile-only
 online population. Designing a website with mobile-users in mind allows the company or development
 team to access a greater userbase and market.
 
-##### This project seeks to explore mobile responsive websites in order to demonstrate proficiency in meeting the user's needs.
+
 
 
 ## Media Query
