@@ -32,6 +32,10 @@ body {
     margin-right: 0.5rem;
     width: 300px;
 }
+
+.form-control {
+    width: 350px;
+}
 /* .img-custom-background {
     color: black;
 } */
