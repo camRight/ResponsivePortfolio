@@ -27,6 +27,11 @@ body {
     margin-top: 2rem;
 }
 
+.cust-portrait {
+    float: left;
+    margin-right: 0.5rem;
+    width: 300px;
+}
 /* .img-custom-background {
     color: black;
 } */
