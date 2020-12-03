@@ -6,7 +6,9 @@
 website traffic is from mobile users. The majority of emerging markets solely consist of mobile-first or mobile-only online populations. Designing a website with mobile-users in mind allows the company or development team to access a greater userbase and market.
 
 
+## Framework:
 
+Bootstrap
 
 ## Media Query
 
@@ -17,8 +19,7 @@ File is a whopping 5.95 MB. Compress/reduce file-size for small screens. Since t
 exercise in practice I felt like populating the files with a background image was enough. One can 
 manipulate the photo in a digital darkroom (photoshop, gimp, etc) and create another asset image for small screens.
 
-[ ] https://getbootstrap.com/docs/4.0/components/card/ Cards
+## Links
 
-[ ] https://getbootstrap.com/docs/4.0/layout/overview/ Containers
-
-[x] Navbar
+Project Repo: https://github.com/camRight/ResponsivePortfolio
+Project Page: 
