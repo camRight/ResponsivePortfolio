@@ -23,3 +23,7 @@ manipulate the photo in a digital darkroom (photoshop, gimp, etc) and create ano
 
 Project Repo: https://github.com/camRight/ResponsivePortfolio
 Project Page: 
+
+### Background
+
+Included other backgrounds for modularity and theme changing.
