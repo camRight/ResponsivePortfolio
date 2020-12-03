@@ -51,18 +51,13 @@ body {
 }
 
 .content::after{
-    content: "\a";
+    content: "\a \a";
     white-space: pre;
 }
 
 .tab {
     margin-left: 30px;
 }
-
-.space::before {
-    margin-top: 15rem;
-}
-
 
 /* screen media large to small */
 @media only screen and (max-width: 767px) {
