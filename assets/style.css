@@ -37,32 +37,21 @@ body {
     width: 350px;
 }
 
-footer-margin {
-    box-sizing: border-box;
-    position: absolute;
+.footer-margin {
+    /* box-sizing: border-box; */
+    /* position: absolute; */
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: red;
+    background-color: grey;
     color: white;
     text-align: center;
-    height: 100px;
+    /* height: 100px; */
 }
-/* #sticky-footer {
-    flex-shrink: 0;
-    position: fixed;
-} */
-/* .img-custom-background {
-    color: black;
-} */
-/* 
-.card-container {
-    margin: 20px 20px 20px 20px;
-} */
 
-/* .card {
-    margin-bottom: 10px;
-} */
+br {
+    margin-top: 3px;
+}
 
 /* screen media large to small */
 @media only screen and (max-width: 767px) {
