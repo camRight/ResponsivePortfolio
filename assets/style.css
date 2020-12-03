@@ -49,10 +49,18 @@ body {
     /* height: 100px; */
 }
 
-br {
-    margin-top: 3px;
+.content::after{
+    content: "\a";
+    white-space: pre;
 }
 
+.tab {
+    margin-left: 30px;
+}
+
+.space {
+    margin-top: 15rem;
+}
 /* screen media large to small */
 @media only screen and (max-width: 767px) {
     body {
