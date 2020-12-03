@@ -10,6 +10,7 @@ body {
     background-color: #E4E4E4;
     font-family: 'Roboto', sans-serif;
 }
+
 .bot-box {
     padding-bottom: 2rem;
     margin-bottom: 2rem;
@@ -35,13 +36,7 @@ body {
     width: 300px;
 }
 
-/* .form-control {
-    width: 100%;
-} */
-
 .footer-margin {
-    /* box-sizing: border-box; */
-    /* position: absolute; */
     left: 0;
     bottom: 0;
     width: 100%;
@@ -59,7 +54,6 @@ body {
     margin-left: 30px;
 }
 
-/* screen media large to small */
 @media only screen and (max-width: 767px) {
     body {
     background-image: url("./images/bluePink.jpg");
@@ -76,9 +70,5 @@ body {
     .bot-box {
         padding-left: .2rem;
         padding-right: .2rem;
-
     }
-    /* img-margin {
-        margin: 0 0 0 0;
-    } */
 }
