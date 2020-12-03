@@ -1,7 +1,4 @@
-/* * {
-    background: #E4E4E4
-} */
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 body {
     /* background large */
@@ -11,6 +8,7 @@ body {
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-color: #E4E4E4;
+    font-family: 'Roboto', sans-serif;
 }
 
 .box-model {
@@ -33,9 +31,9 @@ body {
     width: 300px;
 }
 
-.form-control {
+/* .form-control {
     width: 350px;
-}
+} */
 
 .footer-margin {
     /* box-sizing: border-box; */
@@ -58,7 +56,7 @@ body {
     margin-left: 30px;
 }
 
-.space {
+.space::before {
     margin-top: 15rem;
 }
 /* screen media large to small */
@@ -68,6 +66,11 @@ body {
     background-size: cover;
     object-fit: cover 100%;
     position: relative;
+    }
+
+    .container {
+        margin-left: 0px;
+        margin-right: 0px;
     }
 
     /* img-margin {
