@@ -10,6 +10,10 @@ body {
     background-color: #E4E4E4;
     font-family: 'Roboto', sans-serif;
 }
+.bot-box {
+    padding-bottom: 2rem;
+    margin-bottom: 2rem;
+}
 
 .box-model {
     /* background: #E4E4E4; */
@@ -58,6 +62,8 @@ body {
 .space::before {
     margin-top: 15rem;
 }
+
+
 /* screen media large to small */
 @media only screen and (max-width: 767px) {
     body {
@@ -72,6 +78,11 @@ body {
         padding-right: .2rem;
     }
 
+    .bot-box {
+        padding-left: .2rem;
+        padding-right: .2rem;
+
+    }
     /* img-margin {
         margin: 0 0 0 0;
     } */
