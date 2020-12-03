@@ -22,7 +22,7 @@ manipulate the photo in a digital darkroom (photoshop, gimp, etc) and create ano
 ## Links
 
 Project Repo: https://github.com/camRight/ResponsivePortfolio
-Project Page: 
+Project Page: https://camright.github.io/ResponsivePortfolio/
 
 ### Background
 
