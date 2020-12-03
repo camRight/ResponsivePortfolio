@@ -44,7 +44,6 @@ body {
     background-color: grey;
     color: white;
     text-align: center;
-    /* height: 100px; */
 }
 
 .content::after{
@@ -68,9 +67,9 @@ body {
     position: relative;
     }
 
-    .container {
-        margin-left: 0px;
-        margin-right: 0px;
+    .get-small {
+        padding-left: .2rem;
+        padding-right: .2rem;
     }
 
     /* img-margin {
