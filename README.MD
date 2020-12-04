@@ -5,6 +5,7 @@
 **Responsive Portfolio** as a project came from the perspective of accessibility. The majority of global
 website traffic is from mobile users. The majority of emerging markets solely consist of mobile-first or mobile-only online populations. Designing a website with mobile-users in mind allows the company or development team to access a greater userbase and market.
 
+![Alt text](./assets/images/PortfolioScreenshot.png?raw=true "Project Example")
 
 ## Framework:
 
@@ -22,6 +23,7 @@ manipulate the photo in a digital darkroom (photoshop, gimp, etc) and create ano
 ## Links
 
 Project Repo: https://github.com/camRight/ResponsivePortfolio
+
 Project Page: https://camright.github.io/ResponsivePortfolio/
 
 ### Background
