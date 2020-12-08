@@ -17,7 +17,6 @@ body {
 }
 
 .box-model {
-    /* background: #E4E4E4; */
     margin-top: 4rem;
 }
 
@@ -63,11 +62,6 @@ body {
     }
 
     .get-small {
-        padding-left: .2rem;
-        padding-right: .2rem;
-    }
-
-    .bot-box {
         padding-left: .2rem;
         padding-right: .2rem;
     }
