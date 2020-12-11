@@ -11,6 +11,10 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+h1 {
+    font-weight: bold;
+}
+
 .bot-box {
     padding-bottom: 2rem;
     margin-bottom: 2rem;
