@@ -57,6 +57,12 @@ svg {
     white-space: pre;
 }
 
+p:before {
+    content: "";
+    width: 10em;
+    display: block;
+    overflow: hidden;
+}
 .tab {
     margin-left: 30px;
 }
